@@ -4,7 +4,7 @@ This repository contains scripts from the paper:
 
 Evans KT, Blake K, Longworth A, Coburn MA, InsuaRodriguez J, McMullen T, Nguyen QH, Ma D, Lev T, Hernandez GA, Oganyan AK, Orujyan D, Edwards RA, Pridans C, Green KN, Villalta SA, Blurton-Jones M, Lawson DA. Microglia promote anti-tumor immunity and suppress breast cancer brain metastasis. Nat Cell Bio. 2023
 
-### a) File 2023-09-Final_NCB_topic_model_upload_script.R
+### a) File Final_NCB_topic_model_upload_script.R
 
 Script for Latent Dirichlet Allocation (LDA) /topic modeling  used for the following figures: 
 
