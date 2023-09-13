@@ -22,6 +22,6 @@ Table S5 : Table S5. Top genes comprising each topic upregulated by microglia in
 
 ### b) File Figure7g_Monocle3.ipynb
 
-Script for microglia Pseudotime Analysis for Fig 7g
+Script for microglia pseudotime analysis for Fig 7g
 
 
