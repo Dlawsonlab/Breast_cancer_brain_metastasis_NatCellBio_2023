@@ -28,6 +28,7 @@ Microglia pseudotime analysis for Fig 7g
 
 Script used to generate UMAP's : 
 a) Immune cells and microglia for Fig 7b
+
 b) Temporal analysis of  T cell repertoire in BL/6 BCBM for Extended Supplemental Fig 7b
 
 
